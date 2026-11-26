@@ -1,0 +1,6 @@
+# 바로가기(로컬 경로 포함)
+*.lnk
+# 백업 파일(개인 메모 포함)
+memomate-backup-*.json
+.env*
+.claude/settings.local.json
